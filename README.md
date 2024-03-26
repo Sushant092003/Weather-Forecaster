@@ -15,7 +15,7 @@ To get started with the app, follow these instructions:
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/weather-forecast-app.git
+git clone https://github.com/Sushant092003/weather-forecast-app.git
 Open the project in Android Studio.
 
 Replace YOUR_API_KEY in the WeatherService.java file with your OpenWeatherMap API key. You can obtain a key by signing up on the OpenWeatherMap website.
